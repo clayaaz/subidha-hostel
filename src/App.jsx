@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import hostelLogo from './hostel-logo.png'
+import hostelLogo from '/hostel-logo.png'
 import './App.css'
 
 function App() {
